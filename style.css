@@ -1,0 +1,268 @@
+* {
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+body {
+  background-color: #1c304e;
+}
+
+.text1 {
+  color: white;
+  text-align: center;
+}
+
+.titulo1 {
+  margin-top: 350px;
+  font-size: 60px;
+}
+
+.perguntas1 {
+  margin-top: 50px;
+}
+
+.yes {
+  border: none;
+  color: white;
+  padding: 20px 70px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin-left: 50px;
+  border-radius: 20px;
+  background-color: #1e96c8;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  transition-duration: 0.2s;
+  cursor: pointer;
+}
+
+.yes:hover {
+  background-color: #1c304e;
+  color: white;
+  border: 1px solid white;
+}
+
+.no {
+  border: none;
+  color: white;
+  padding: 20px 70px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin-left: 50px;
+  border-radius: 20px;
+  background-color: #1e96c8;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  transition-duration: 0.2s;
+  cursor: pointer;
+}
+
+.no:hover {
+  background-color: #1c304e;
+  color: white;
+  border: 1px solid white;
+}
+
+.text2 {
+  color: white;
+  text-align: center;
+}
+
+.titulo2 {
+  margin-top: 500px;
+  font-size: 60px;
+}
+
+.perguntas2 {
+  margin-top: 50px;
+}
+
+.ever {
+  border: none;
+  color: white;
+  padding: 20px 70px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin-left: 50px;
+  border-radius: 20px;
+  background-color: #1e96c8;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  transition-duration: 0.2s;
+  cursor: pointer;
+}
+
+.ever:hover {
+  background-color: #1c304e;
+  color: white;
+  border: 1px solid white;
+}
+
+.sometimes {
+  border: none;
+  color: white;
+  padding: 20px 70px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin-left: 50px;
+  border-radius: 20px;
+  background-color: #1e96c8;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  transition-duration: 0.2s;
+  cursor: pointer;
+}
+
+.sometimes:hover {
+  background-color: #1c304e;
+  color: white;
+  border: 1px solid white;
+}
+
+.never {
+  border: none;
+  color: white;
+  padding: 20px 70px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin-left: 50px;
+  border-radius: 20px;
+  background-color: #1e96c8;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  transition-duration: 0.2s;
+  cursor: pointer;
+}
+
+.never:hover {
+  background-color: #1c304e;
+  color: white;
+  border: 1px solid white;
+}
+
+.text3 {
+  color: white;
+  text-align: center;
+}
+
+.titulo3 {
+  margin-top: 500px;
+  font-size: 60px;
+}
+
+.perguntas3 {
+  margin-top: 50px;
+}
+
+.talk {
+  border: none;
+  color: white;
+  padding: 20px 70px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin-left: 50px;
+  border-radius: 20px;
+  background-color: #1e96c8;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  transition-duration: 0.2s;
+  cursor: pointer;
+}
+
+.talk:hover {
+  background-color: #1c304e;
+  color: white;
+  border: 1px solid white;
+}
+
+.study {
+  border: none;
+  color: white;
+  padding: 20px 70px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin-left: 50px;
+  border-radius: 20px;
+  background-color: #1e96c8;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  transition-duration: 0.2s;
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+.study:hover {
+  background-color: #1c304e;
+  color: white;
+  border: 1px solid white;
+}
+
+.text4 {
+  color: white;
+  text-align: center;
+}
+
+.titulo4 {
+  margin-top: 500px;
+  font-size: 60px;
+}
+
+.perguntas4 {
+  margin-top: 50px;
+  margin-bottom: 150px;
+}
+
+.wts {
+  border: none;
+  color: white;
+  padding: 20px 70px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin-left: 50px;
+  border-radius: 20px;
+  background-color: #1e96c8;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  transition-duration: 0.2s;
+  cursor: pointer;
+}
+
+.wts:hover {
+  background-color: #1c304e;
+  color: white;
+  border: 1px solid white;
+}
+
+.tlm {
+  border: none;
+  color: white;
+  padding: 20px 70px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin-left: 50px;
+  border-radius: 20px;
+  background-color: #1e96c8;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  transition-duration: 0.2s;
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+.tlm:hover {
+  background-color: #1c304e;
+  color: white;
+  border: 1px solid white;
+}
